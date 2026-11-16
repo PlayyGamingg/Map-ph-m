@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TV Mouse</string>
+    <string name="service_desc">Di chuyển chuột ảo bằng tay cầm và gán phím tay cầm thành thao tác nhấp, quay lại, cuộn...</string>
+</resources>
